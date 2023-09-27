@@ -1,25 +1,80 @@
 ## Build and test
 
-Now it's time to make your ...
+Now it's time to make your party game!
 
-Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png)
+TODO: Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png)
 
+**Tip:** 💡 Remember to test your project each time you add something. It is easier to find and fix bugs before you make more changes.
+
+You have built up some really useful skills. Here is a reminder to help you make your party game: 
 
 --- task ---
 
-Step content... 
-Can use:
-**Test:**
-**Choose:**
-**Tip:**
+### How will your party game start?
+
+#### You could start your game by showing something on the LEDs
+
+[[[microbit-text]]]
+
+[[[microbit-icons]]]
+
+[[[microbit-animation]]]
+
+[[[microbit-function]]]
+
+--- /task ---
+
+### How will a player win the game?
+
+--- task ---
+
+Will a player score points?
+
+[[[microbit-counting]]]
+
+Will they have to do something for a set time?
+
+[[[microbit-timer]]]
+
+--- /task ---
+
+### What does a player have to do in the game?
+
+--- task ---
+
+A player might need to use a trigger.
+
+[[[microbit-buttons]]]
+
+[[[microbit-mic]]]
+
+[[[microbit-gesture-trigger]]]
+
+[[[microbit-fine-movement]]]
+
+A player might need to hear sounds.
+
+[[[microbit-playing-sounds]]]
+
+[[[microbit-volume]]]
+
+Will they need to make choices?
+
+[[[microbit-making-choices]]]
+
+Will you need to show or use random numbers?
+
+[[[microbit-random-numbers]]]
+
+You might only want to let some code run if a player has completed a task.
+
+[[[microbit-flags]]]
 
 --- /task ---
 
 --- task ---
 
-You have built up some really useful skills. Here is a reminder to help you make your ... : 
-
-<mark> Ingredients or collapses </mark>
+UP TO HERE: How does the game end
 
 --- /task ---
 

@@ -1,66 +1,42 @@
-## Introduction
+## You will make
 
-You are going to create ... Your ... will need to meet the **project brief**.
+You are going to create a party game to help you have fun. You game can be based on a party game you have played before.
 
-<mark>this particular boxout optional: maybe a good idea if first path</mark>
+Your party game will need to meet the **project brief**.
+
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 A <span style="color: #0faeb0">project brief</span> describes what a project must do. It's a bit like being given a mission to complete.
 </p>
 
-You will:
-+ 
-+ 
-+ 
+You will need to decide what type of game you would like to make and who it is for.
 
---- no-print ---
+Your game should:
 
---- task ---
+- Show an image you design on the LEDs
+- Let a player start the game
+- Play sounds and/or show icons on the LEDs
+- Let the players control the game using buttons, the touch logo, movement or sounds
+- Show a winning result or prize at the end of the game
 
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 200px; flex-grow: 1">
-
-### Try it
-
-Description of what to do or think about when looking at the example.
-
+Your game **could**:
+- Let the user enter the number of players
+- Use a timer
+- Have levels
+- Keep a count of a value or a high score.
+- Have a reset feature
+- Log data
+- Organise code using functions
+- Be powered from the battery pack
 </div>
-<div>
-
-**Light the way home**: [See inside](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
-</div>
-
-</div>
-</div>
-
---- /task ---
-
---- /no-print ---
-
-<div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
-
-### PROJECT BRIEF: Project title
-<hr style="border-top: 2px solid black;">
-
-Brief explanation of aims of project. 
-
-Your ... should:
-+ ...
-+ ...
-
-Your ... could:
-+ ...
-+ ...
-</div>
-
---- no-print ---
 
 ### Get inspiration
 
 --- task ---
 
-Think about ... as you investigate these example projects to get more ideas:
+Think about how your game will start, how a player wins the game and how the game ends as you investigate these example projects to get more ideas:
+
+
+**TODO: ADD EXAMPLES FROM THE TEAM**
 
 **Tickle monster**: [See inside](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -79,13 +55,3 @@ Click on the character and object to choose the ones you want in the story, then
 </div>
 
 --- /task ---
-
---- /no-print ---
-
---- print-only ---
-
-![Complete project](images/showcase_static.png)
-
---- /print-only ---
-
-

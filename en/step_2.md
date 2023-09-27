@@ -1,53 +1,89 @@
 ## Your idea
 
-Use this step to plan your ... . You can plan by just thinking; tinkering; drawing or writing; or however you like! 
+Use this step to plan your party game. You can plan by just thinking; tinkering; drawing or writing; or however you like! 
 
-Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png)
+TO DO: Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png)
 
-### Why are you making ... ?
+### What will you make?
 
 --- task ---
 
-Think about the purpose of your ... . 
-
-It could be:
-- 
-
+Think about the game you will use your micro:bit for. 
+- What are the rules of the game?
+- How does someone win?
+- Are there choices players have to make?
+- Do players score points?
+- Will the game be played inside or outside?
 
 --- /task ---
 
 ### Who is it for?
 
 --- task ---
-
-Think about who you will make your ... for (your **audience**).
+Think about who you will make your party game for (your **audience**).
+- Will they need longer to see the icons or text on the screen?
+- Will they need sound as well as visual information?
+- Will they be able to understand what an icon means?
+- Are there any part of the micro:bit they might find hard to use.
 
 --- /task ---
 
 ### Get started
 
+Use a notes app or pen and paper, or both to plan ideas for your game. 
+
+Try to jot down as many ideas as you can, and discuss them with a friend. 
+
+Then pick the idea that you like the most.
 
 --- task ---
 
-Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+Open the MakeCode editor at [makecode.microbit.org](https://makecode.microbit.org){:target="_blank"}
 
 --- collapse ---
+
 ---
-title: Working offline
+title: Offline version of the editor
 ---
 
-To set up Scratch for offline use visit [our Scratch guide](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
+There is also a [downloadable version of the MakeCode editor](https://makecode.microbit.org/offline-app){:target="_blank"}.
 
 --- /collapse ---
 
-Use ... , a pen and paper, or both to plan ideas for your book.
+--- /task ---
+
+Once the editor is open, you will need to create a new project and give your project a name. 
+
+--- task ---
+
+Click on the **New Project** button.
+
+<img src="images/new-project-button.png" alt="The New Project button inside MakeCode." width="250"/>
 
 --- /task ---
 
 --- task ---
 
-Any other info/content
+Give your project a name that matches the party game you want to make!
+
+**Tip:** Giving your project a name that relates to the game you’re creating will make it easier to find if you create other projects on MakeCode.
 
 --- /task ---
 
---- save ---
+Your game will need to use some micro:bit features. Here are some ingredients that you might find useful.
+
+#### Loops
+
+[[[microbit-forever-loop]]]
+
+[[[microbit-repeat]]]
+
+[[[microbit-for-loop]]]
+
+#### Variables
+
+[[[microbit-create-variables]]]
+
+#### Logic
+
+[[[microbit-selection]]]
