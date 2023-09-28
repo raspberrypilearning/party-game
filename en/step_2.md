@@ -80,7 +80,7 @@ Your game will need to use some micro:bit features. Here are some ingredients th
 
 [[[microbit-for-loop]]]
 
-#### Variables
+#### Variables
 
 [[[microbit-create-variables]]]
 
