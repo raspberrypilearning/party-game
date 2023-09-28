@@ -27,6 +27,7 @@ Your game **could**:
 - Log data
 - Organise code using functions
 - Be powered from the battery pack
+
 </div>
 
 ### Get inspiration
