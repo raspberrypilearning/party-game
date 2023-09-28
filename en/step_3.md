@@ -121,6 +121,7 @@ Do you want make any changes?
 Here are some common bugs.
 
 TODO: Team to add bugs as they follow the project through.
+
 --- collapse ---
 
 ---
