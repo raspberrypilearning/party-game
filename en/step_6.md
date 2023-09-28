@@ -10,4 +10,4 @@ If you need a reminder of what you have learned, you can go to the [micro:bit gu
 
 [[[microbit-coolest-projects]]]
 
-Or, you can explore our [other micro:bit projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=makecode&curriculum%5B%5D=%201) and try them out.
+Or, you can explore our [other micro:bit projects](https://projects.raspberrypi.org/en/projects?hardware%5B%5D=microbit&curriculum%5B%5D=%201) and try them out.
