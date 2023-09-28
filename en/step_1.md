@@ -28,8 +28,6 @@ Your game **could**:
 - Organise code using functions
 - Be powered from the battery pack
 
-</div>
-
 ### Get inspiration
 
 --- task ---

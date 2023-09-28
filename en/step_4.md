@@ -109,7 +109,7 @@ Mistakes and failure are temporary. Keep going until you succeed!
 
 --- task ---
 
-What mistakes did you make and how did they help you create your party game ?
+What mistakes did you make and how did they help you create your party game?
 
 --- /task ---
 
