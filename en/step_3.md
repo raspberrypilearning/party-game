@@ -16,11 +16,13 @@ Here is a reminder of some skills you could use to help you make your party game
 
 You could start your game by showing something on the LEDs.
 
-[[[microbit-text]]]
-
 [[[microbit-icons]]]
 
 [[[microbit-animation]]]
+
+[[[microbit-text]]]
+
+If your start-up screen is complicated you might want to organise the code into a **function**.
 
 [[[microbit-function]]]
 
