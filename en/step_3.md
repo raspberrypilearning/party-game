@@ -108,6 +108,8 @@ You might need to play your game away from your computer.
 
 --- /task ---
 
+[[[download-to-microbit]]]
+
 --- task ---
 
 **Test:** Show someone else your game and get their feedback. 

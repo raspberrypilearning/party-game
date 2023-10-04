@@ -113,6 +113,8 @@ What mistakes did you make and how did they help you create your party game?
 
 --- /task ---
 
+[[[download-to-microbit]]]
+
 ### Now you are the creator of a micro:bit game!
 
 Take a moment to celebrate what you have made.
