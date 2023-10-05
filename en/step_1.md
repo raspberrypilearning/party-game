@@ -28,29 +28,65 @@ Your game **could**:
 - Organise code using functions
 - Be powered from the battery pack
 
-### Get inspiration
-
---- task ---
+### Get ideas
 
 Think about how your game will start, how a player wins the game and how the game ends as you investigate these example projects to get more ideas:
 
-
 **TODO: ADD EXAMPLES FROM THE TEAM**
 
-**Tickle monster**: [See inside](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1">  
+
+### Musical chairs
+
+Instructions go here
++ Do this
++ Then this
++ Then this
+
 </div>
 
-**Scratch blends in**: [See inside](https://scratch.mit.edu/projects/498968472/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498968472/?autostart=false" frameborder="0"></iframe>
+<div>
+
+[👀 See the code 👀](https://makecode.microbit.org/S44727-82649-75784-15537){:target="_blank"}
+
+<div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=S44727-82649-75784-15537" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+
 </div>
 
-**A debugging story**: [See inside](https://scratch.mit.edu/projects/498960446/editor){:target="_blank"}
-Click on the character and object to choose the ones you want in the story, then click on the Stage to turn the page.
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498960446/?autostart=false" frameborder="0"></iframe>
+### Example 2
+
+Instructions go here
++ Do this
++ Then this
++ Then this
+
+</div>
+
+<div>
+
+[👀 See the code 👀](https://makecode.microbit.org/S44727-82649-75784-15537){:target="_blank"}
+
+<div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=S44727-82649-75784-15537" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+
+</div>
+
+
+### Example 3
+
+Instructions go here
++ Do this
++ Then this
++ Then this
+
+</div>
+
+<div>
+
+[👀 See the code 👀](https://makecode.microbit.org/S44727-82649-75784-15537){:target="_blank"}
+
+<div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=S44727-82649-75784-15537" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+
 </div>
 
 --- /task ---
