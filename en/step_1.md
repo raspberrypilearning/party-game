@@ -68,14 +68,6 @@ You can shake the micro:bit to reset the game back to `4` players.
 
 </div>
 
-<div>
-
-<br>
-<br>
-
-**TODO: ADD EXTRA EXAMPLES FROM THE TEAM**
-
-</div>
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
@@ -87,7 +79,6 @@ In this project, the micro:bit is used to show the score in a game of bottle fli
 Any number of players can play the game, but make sure you play with more than one person!
 
 - Follow the startup instructions on the screen.
-- A flashing arrow points to the touch logo.
 - When you press Button A:
   - You are shown more instructions and the number of the current player.
   - You can begin to flip the bottle, each landing of the bottle will give you a point score.
