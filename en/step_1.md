@@ -80,32 +80,30 @@ You can shake the micro:bit to reset the game back to `4` players.
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">  
 
-### Musical chairs
+### Bottle flip
 
-In this project, The micro:bit is used to control a game of musical chairs.
+In this project, the micro:bit is used to show the score in a game of bottle flip.
 
-The number of players is set to `4`, so line up `3` chairs to play the game!
+Any number of players can play the game, but make sure you play with more than one person!
 
-- Watch the startup animation of someone sitting on a chair.
+- Follow the startup instructions on the screen.
 - A flashing arrow points to the touch logo.
-- When you touch the logo:
-  - You are shown a 3,2,1 countdown, then a picture of an empty chair.
-  - A melody plays for a random amount of time (between 3 and 15 seconds).
-  - All players should move around the chairs while the music plays!
-  - When the music stops, a 'sit down' animation is shown.
-  - All players should try to sit on a chair. The player left standing is removed from the game.
-  - If there is more than one player in the game, `-1` is shown to tell you to remove a chair and a flashing arrow points to the touch logo again.
-  - When there is only one chair left, the person to sit on it wins (and a smiley face icon is shown).
+- When you press Button A:
+  - You are shown more instructions and the number of the current player.
+  - You can begin to flip the bottle, each landing of the bottle will give you a point score.
+  - You can press Button B to end the player's turn and see your score.
+  - Press Button A for the next player to flip the bottle.
+
   
-You can set the number of players using the A and B buttons.
+You can press the Logo button to reset the game and start again.
 
 </div>
 
 <div>
 
-[👀 See the code 👀](https://makecode.microbit.org/_8o7R5MEfC4m3){:target="_blank"}
+[👀 See the code 👀](https://makecode.microbit.org/_3soJ9ERsugVm){:target="_blank"}
 
-<div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_8o7R5MEfC4m3" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+<div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_3soJ9ERsugVm" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 
 </div>
 
