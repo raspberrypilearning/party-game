@@ -2,8 +2,6 @@
 
 Now it's time to make your party game!
 
-TODO: Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png)
-
 **Tip:** 💡 Remember to test your project each time you add something. It is easier to find and fix bugs before you make more changes.
 
 You have built up some really useful skills. 
