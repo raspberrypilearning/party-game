@@ -39,7 +39,7 @@ Think about how your game will start, how a player wins the game and how the gam
 
 ### Musical chairs
 
-In this project, The micro:bit is used to control a game of musical chairs.
+In this project, the micro:bit is used to control a game of musical chairs.
 
 The number of players is set to `4`, so line up `3` chairs to play the game!
 
@@ -103,7 +103,7 @@ You can press the Logo button to reset the game and start again.
 
 ### Musical chairs
 
-In this project, The micro:bit is used to control a game of musical chairs.
+In this project, the micro:bit is used to control a game of musical chairs.
 
 The number of players is set to `4`, so line up `3` chairs to play the game!
 
