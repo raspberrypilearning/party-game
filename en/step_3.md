@@ -20,7 +20,7 @@ You could start your game by showing something on the LEDs.
 
 [[[microbit-text]]]
 
-If your start-up screen is complicated you might want to organise the code into a **function**.
+If your start-up screen is complicated, you might want to organise the code into a **function**.
 
 [[[microbit-function]]]
 
@@ -90,7 +90,7 @@ You could end your game by showing something on the LEDs.
 
 [[[microbit-plot-graph]]]
 
-You could store points scored to the micro:bit to use later.
+You could store the points scored to the micro:bit to use later.
 
 [[[microbit-datalogging]]]
 
