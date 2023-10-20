@@ -24,7 +24,7 @@ Play sounds and/or show icons on the LEDs.
 
 --- task ---
 
-Let the players control the game using buttons, the touch logo, movement or sounds.
+Let the players control the game using buttons, the touch logo, movement, or sounds.
 
 --- /task ---
 
