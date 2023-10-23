@@ -14,7 +14,7 @@ You will need to decide what type of game you would like to make and who it is f
 
 Your game should:
 
-- Show an image you design on the LEDs
+- Show an image you've designed on the LEDs
 - Let a player start the game
 - Play sounds and/or show icons on the LEDs
 - Let the players control the game using buttons, the touch logo, movement, or sounds
@@ -24,10 +24,10 @@ Your game **could**:
 - Let the user enter the number of players
 - Use a timer
 - Have levels
-- Keep a count of a value or a high score
+- Keep track of a value or a high score
 - Have a reset feature
 - Log data
-- Organise code using functions
+- Have code organised into functions
 - Be powered from the battery pack
 
 ### Get ideas
@@ -105,14 +105,14 @@ You can press the logo button to reset the game and start again.
 In this project, the micro:bit is used to replicate the Bop-it device. Players have to: 
 
 - Watch the start-up animation to understand the different tasks you must complete.
-1. **Raise it** - lift the micro:bit above your head
-2. **Shout it** - shout at the micro:bit
-3. **Shake it** - shake the micro:bit
-4. **Bop it** - press both the A & B buttons
+1. **Raise it** — lift the micro:bit above your head
+2. **Shout it** — shout at the micro:bit
+3. **Shake it** — shake the micro:bit
+4. **Bop it** — press both the A & B buttons
 - Press the logo to start the game.
 - Complete the tasks before your time runs out.
 - You will get extra time after completing each action.
-- When the time runs out, your score is shown on the LEDs screen.
+- When the time runs out, your score is shown on the LEDs.
 
 </div>
 
