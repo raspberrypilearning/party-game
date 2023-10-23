@@ -68,7 +68,7 @@ Will you need to show or use random numbers?
 
 [[[microbit-random-numbers]]]
 
-You might only want to let some code run if a player has completed a task.
+You might have some code that only runs if a player has completed a task.
 
 [[[microbit-flags]]]
 
@@ -112,7 +112,7 @@ You might need to play your game away from your computer.
 
 **Test:** Show someone else your game and get their feedback. 
 
-Do you want make any changes? 
+Do you want to make any changes? 
 
 --- /task ---
 
