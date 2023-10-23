@@ -52,7 +52,7 @@ There is also a [downloadable version of the MakeCode editor](https://makecode.m
 
 --- /task ---
 
-Once the editor is open, you will need to create a new project and give your project a name. 
+Once the editor is open, create a new project and give your project a name. 
 
 --- task ---
 
