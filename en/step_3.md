@@ -120,22 +120,6 @@ Do you want to make any changes?
 
 **Debug:** You might find some bugs in your project that you need to fix. 
 
-Here are some common bugs.
-
-TODO: Team to add bugs as they follow the project through.
-
---- collapse ---
-
----
-title: Each debug in a collapse or ingredient
----
-
-Each debug in a collapse or ingredient
-
---- /collapse ---
-
-You might find a bug not listed here. Can you figure out how to fix it?
-
-We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
+We love hearing about your bugs and how you fixed them.
 
 --- /task ---

@@ -2,8 +2,6 @@
 
 Use this step to plan your party game. You can plan by just thinking, tinkering, drawing or writing, or however you like! 
 
-TO DO: Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png)
-
 ### What will you make?
 
 --- task ---
