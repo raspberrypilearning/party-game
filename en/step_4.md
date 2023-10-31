@@ -1,12 +1,12 @@
 ## Checklist
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the ones that apply to your project.
+Did you meet the **project brief**? Think about your project and go through the checklist below — check off the points that apply to your project.
 
 ### Does your party game:
 
 --- task ---
 
-Show an image you design on the LEDs.
+Show an image you've designed on the LEDs.
 
 --- /task ---
 
@@ -24,7 +24,7 @@ Play sounds and/or show icons on the LEDs.
 
 --- task ---
 
-Let the players control the game using buttons, the touch logo, movement or sounds.
+Let the players control the game using buttons, the touch logo, movement, or sounds.
 
 --- /task ---
 
@@ -56,7 +56,7 @@ Have levels.
 
 --- task ---
 
-Keep a count of a value or a high score.
+Keep track of a value or a high score.
 
 --- /task ---
 
@@ -74,7 +74,7 @@ Log data.
 
 --- task ---
 
-Use functions to organise code.
+Have code organised into functions.
 
 --- /task ---
 
@@ -112,6 +112,8 @@ Mistakes and failure are temporary. Keep going until you succeed!
 What mistakes did you make and how did they help you create your party game?
 
 --- /task ---
+
+[[[download-to-microbit]]]
 
 ### Now you are the creator of a micro:bit game!
 

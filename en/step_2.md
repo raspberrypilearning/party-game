@@ -1,8 +1,6 @@
 ## Your idea
 
-Use this step to plan your party game. You can plan by just thinking; tinkering; drawing or writing; or however you like! 
-
-TO DO: Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png)
+Use this step to plan your party game. You can plan by just thinking, tinkering, drawing or writing, or however you like! 
 
 ### What will you make?
 
@@ -24,21 +22,21 @@ Think about who you will make your party game for (your **audience**).
 - Will they need longer to see the icons or text on the screen?
 - Will they need sound as well as visual information?
 - Will they be able to understand what an icon means?
-- Are there any part of the micro:bit they might find hard to use.
+- Are there any part of the micro:bit they might find hard to use?
 
 --- /task ---
 
 ### Get started
 
-Use a notes app or pen and paper, or both to plan ideas for your game. 
+Use a notes app or pen and paper, or both, to plan ideas for your game. 
 
-Try to jot down as many ideas as you can, and discuss them with a friend. 
+Try to note down as many ideas as you can, and discuss them with a friend. 
 
 Then pick the idea that you like the most.
 
 --- task ---
 
-Open the MakeCode editor at [makecode.microbit.org](https://makecode.microbit.org){:target="_blank"}
+Open the MakeCode editor at [makecode.microbit.org](https://makecode.microbit.org){:target="_blank"}.
 
 --- collapse ---
 
@@ -52,7 +50,7 @@ There is also a [downloadable version of the MakeCode editor](https://makecode.m
 
 --- /task ---
 
-Once the editor is open, you will need to create a new project and give your project a name. 
+Once the editor is open, create a new project and give your project a name. 
 
 --- task ---
 
