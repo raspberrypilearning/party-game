@@ -38,7 +38,7 @@ Then pick the idea that you like the most.
 
 \--- task ---
 
-Open the MakeCode editor at [makecode.microbit.org](https://makecode.microbit.org){:target="\_blank"}.
+Open the MakeCode editor at [makecode.microbit.org](https://makecode.microbit.org){:target="_blank"}.
 
 \--- collapse ---
 
@@ -46,7 +46,7 @@ Open the MakeCode editor at [makecode.microbit.org](https://makecode.microbit.or
 
 ## title: Offline version of the editor
 
-There is also a [downloadable version of the MakeCode editor](https://makecode.microbit.org/offline-app){:target="\_blank"}.
+There is also a [downloadable version of the MakeCode editor](https://makecode.microbit.org/offline-app){:target="_blank"}.
 
 \--- /collapse ---
 
@@ -74,16 +74,16 @@ Your game will need to use some micro:bit features. Here are some ingredients th
 
 #### Loops
 
-\[\[\[microbit-forever-loop]]]
+[[[microbit-forever-loop]]]
 
-\[\[\[microbit-repeat]]]
+[[[microbit-repeat]]]
 
-\[\[\[microbit-for-loop]]]
+[[[microbit-for-loop]]]
 
 #### Variables
 
-\[\[\[microbit-create-variables]]]
+[[[microbit-create-variables]]]
 
 #### Logic
 
-\[\[\[microbit-selection]]]
+[[[microbit-selection]]]
