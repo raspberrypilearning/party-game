@@ -3,8 +3,8 @@ title: Party game
 hero_image: images/banner.png
 description: Use your micro:bit to create a party game!
 version: 4
-listed: false
-copyedit: false
+listed: true
+copyedit: true
 last_tested: '2021-03-26'
 steps:
   - 
@@ -13,8 +13,13 @@ steps:
     title: Your idea
   - 
     title: Build and test
+    completion:
+      - engaged
+      - internal
   - 
     title: Checklist
+    completion:
+      - external
   - 
     title: Share and play
   - 
