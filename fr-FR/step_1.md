@@ -63,7 +63,7 @@ You can shake the micro:bit to reset the game back to `4` players.
 
 <div>
 
-[👀 See the code 👀](https://makecode.microbit.org/_8o7R5MEfC4m3){:target="\_blank"}
+[👀 See the code 👀](https://makecode.microbit.org/_8o7R5MEfC4m3){:target="_blank"}
 
 <div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_8o7R5MEfC4m3" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 
@@ -91,7 +91,7 @@ You can press the logo button to reset the game and start again.
 
 <div>
 
-[👀 See the code 👀](https://makecode.microbit.org/S88052-89971-86401-86445){:target="\_blank"}
+[👀 See the code 👀](https://makecode.microbit.org/S88052-89971-86401-86445){:target="_blank"}
 
 <div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=S88052-89971-86401-86445" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 
@@ -120,7 +120,7 @@ In this project, the micro:bit is used to replicate the Bop-it device. Players h
 
 <div>
 
-[👀 See the code 👀](https://makecode.microbit.org/S80414-03592-06914-91553){:target="\_blank"}
+[👀 See the code 👀](https://makecode.microbit.org/S80414-03592-06914-91553){:target="_blank"}
 
 <div style="position:relative;height:0;padding-bottom:125%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=S80414-03592-06914-91553" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 
