@@ -1,62 +1,62 @@
-## Your idea
+## Jouw idee
 
-Use this step to plan your party game. You can plan by just thinking, tinkering, drawing or writing, or however you like!
+Gebruik deze stap om je gezelschapsspel te plannen. Je kunt het plannen door erover na te denken, te knutselen, te tekenen of te schrijven, of hoe je maar wilt!
 
-### What will you make?
+### Wat ga je maken?
 
 \--- task ---
 
-Think about the game you will use your micro:bit for.
+Denk na over het spel waarvoor je je micro:bit gaat gebruiken.
 
-- What are the rules of the game?
-- How does someone win?
-- Are there choices players have to make?
-- Do players score points?
-- Will the game be played inside or outside?
+- Wat zijn de spelregels?
+- Hoe wint iemand?
+- Zijn er keuzes die spelers moeten maken?
+- Scoren de spelers punten?
+- Wordt het spel binnen of buiten gespeeld?
 
 \--- /task ---
 
-### Who is it for?
+### Voor wie is het?
 
 \--- task ---
-Think about who you will make your party game for (your **audience**).
+Bedenk voor wie je je gezelschapsspel gaat maken (je **publiek**).
 
-- Will they need longer to see the icons or text on the screen?
-- Will they need sound as well as visual information?
-- Will they be able to understand what an icon means?
-- Are there any part of the micro:bit they might find hard to use?
+- Hebben ze langer nodig om de pictogrammen of tekst op het scherm te zien?
+- Hebben ze zowel geluids- als visuele informatie nodig?
+- Kunnen ze begrijpen wat een pictogram betekent?
+- Zijn er onderdelen van de micro:bit die ze misschien moeilijk kunnen gebruiken?
 
 \--- /task ---
 
-### Get started
+### Aan de slag
 
-Use a notes app or pen and paper, or both, to plan ideas for your game.
+Gebruik een notitie-app of pen en papier, of beide om ideeën voor je spel te plannen.
 
-Try to note down as many ideas as you can, and discuss them with a friend.
+Probeer zoveel mogelijk ideeën te bedenken en bespreek ze met een vriend.
 
-Then pick the idea that you like the most.
+Kies dan het idee dat je het meest bevalt.
 
 \--- task ---
 
-Open the MakeCode editor at [makecode.microbit.org](https://makecode.microbit.org){:target="\_blank"}.
+Open de MakeCode editor in [makecode.microbit.org](https://makecode.microbit.org){:target="_blank"}.
 
 \--- collapse ---
 
 ***
 
-## title: Offline version of the editor
+## title: Offline versie van de editor
 
-There is also a [downloadable version of the MakeCode editor](https://makecode.microbit.org/offline-app){:target="\_blank"}.
+Er is ook een [downloadbare versie van de MakeCode-editor](https://makecode.microbit.org/offline-app){:target="_blank"}.
 
 \--- /collapse ---
 
 \--- /task ---
 
-Once the editor is open, create a new project and give your project a name.
+Zodra de editor is geopend, moet je een nieuw project aanmaken en je project een naam geven.
 
 \--- task ---
 
-Click on the **New Project** button.
+Klik op de knop **Nieuw project**.
 
 <img src="images/new-project-button.png" alt="The New Project button inside MakeCode." width="250"/>
 
@@ -64,26 +64,26 @@ Click on the **New Project** button.
 
 \--- task ---
 
-Give your project a name that matches the party game you want to make!
+Geef je project een naam die past bij het gezelschapsspel dat je wilt maken!
 
-**Tip:** Giving your project a name that relates to the game you’re creating will make it easier to find if you create other projects on MakeCode.
+**Tip:** als je je project een naam geeft met betrekking tot het spel dat je maakt, is het gemakkelijker om het later terug te vinden als je nog andere projecten aanmaakt op MakeCode.
 
 \--- /task ---
 
-Your game will need to use some micro:bit features. Here are some ingredients that you might find useful.
+Je spel zal een aantal functies van de micro:bit gebruiken. Hier zijn enkele ingrediënten die je nuttig zou kunnen vinden.
 
-#### Loops
+#### Lussen
 
-\[\[\[microbit-forever-loop]]]
+[[[microbit-forever-loop]]]
 
-\[\[\[microbit-repeat]]]
+[[[microbit-repeat]]]
 
-\[\[\[microbit-for-loop]]]
+[[[microbit-for-loop]]]
 
-#### Variables
+#### Variabelen
 
-\[\[\[microbit-create-variables]]]
+[[[microbit-create-variables]]]
 
-#### Logic
+#### Logica
 
-\[\[\[microbit-selection]]]
+[[[microbit-selection]]]
