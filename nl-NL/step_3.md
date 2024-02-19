@@ -110,7 +110,7 @@ Je moet mogelijk je spel spelen los van je computer.
 
 --- task ---
 
-\*\*Test: Laat iemand anders jouw spel zien en vraag feedback.
+**Test**: Laat iemand anders jouw spel zien en vraag feedback.
 
 Wil je wijzigingen aanbrengen?
 
