@@ -1,125 +1,125 @@
-## Build and test
+## Bouw en test
 
-Now it's time to make your party game!
+Nu is het tijd om je gezelschapsspel te maken!
 
-**Tip:** 💡 Remember to test your project each time you add something. It is easier to find and fix bugs before you make more changes.
+\*\*Tip: \*\* 💡vergeet niet om je project elke keer te testen wanneer je iets toevoegt. Het is veel gemakkelijker om fouten te vinden en op te lossen voordat je meer wijzigingen aanbrengt.
 
-You have built up some really useful skills.
+Je hebt echt nuttige vaardigheden opgebouwd.
 
-Here is a reminder of some skills you could use to help you make your party game:
+Hier is een herinnering aan enkele vaardigheden die je kunt gebruiken bij het maken van jouw gezelschapsspel:
 
-### How will your party game start?
+### Hoe begint jouw gezelschapsspel?
 
 \--- task ---
 
-You could start your game by showing something on the LEDs.
+Je zou je spel kunnen starten door iets te laten zien op de LED's.
 
-\[\[\[microbit-icons]]]
+[[[microbit-icons]]]
 
-\[\[\[microbit-animation]]]
+[[[microbit-animation]]]
 
-\[\[\[microbit-text]]]
+[[[microbit-text]]]
 
-If your start-up screen is complicated, you might want to organise the code into a **function**.
+Als het startscherm ingewikkeld is, kun je de code overzichtelijker maken met behulp van een **functie**.
 
-\[\[\[microbit-function]]]
+[[[microbit-function]]]
 
 \--- /task ---
 
-### How will a player win the game?
+### Hoe wint een speler het spel?
 
 \--- task ---
 
-Will a player score points?
+Scoort de speler punten?
 
-\[\[\[microbit-counting]]]
+[[[microbit-counting]]]
 
-Will they have to do something for a set time?
+Moeten ze iets doen gedurende een bepaalde tijd?
 
-\[\[\[microbit-timer]]]
+[[[microbit-timer]]]
 
 \--- /task ---
 
-### What does a player have to do in the game?
+### Wat moet een speler doen in het spel?
 
 \--- task ---
 
-A player might need to use a trigger.
+Het kan zijn dat een speler een trigger moet gebruiken.
 
-\[\[\[microbit-buttons]]]
+[[[microbit-buttons]]]
 
-\[\[\[microbit-mic]]]
+[[[microbit-mic]]]
 
-\[\[\[microbit-gesture-trigger]]]
+[[[microbit-gesture-trigger]]]
 
-\[\[\[microbit-fine-movement]]]
+[[[microbit-fine-movement]]]
 
-A player might need to hear sounds.
+Het kan zijn dat een speler geluiden moet horen.
 
-\[\[\[microbit-playing-sounds]]]
+[[[microbit-playing-sounds]]]
 
-\[\[\[microbit-volume]]]
+[[[microbit-volume]]]
 
-Will they need to make choices?
+Zullen zij keuzes moeten maken?
 
-\[\[\[microbit-making-choices]]]
+[[[microbit-making-choices]]]
 
-Will you need to show or use random numbers?
+Moet je willekeurige getallen tonen of gebruiken?
 
-\[\[\[microbit-random-numbers]]]
+[[[microbit-random-numbers]]]
 
-You might have some code that only runs if a player has completed a task.
+Je hebt misschien code die alleen wordt uitgevoerd als een speler een taak heeft voltooid.
 
-\[\[\[microbit-flags]]]
+[[[microbit-flags]]]
 
 \--- /task ---
 
-### How does the game end?
+### Hoe eindigt het spel?
 
 \--- task ---
 
-You could end your game by showing something on the LEDs.
+Je kunt je spel beëindigen door iets op de LED's te laten zien.
 
-\[\[\[microbit-text]]]
+[[[microbit-text]]]
 
-\[\[\[microbit-icons]]]
+[[[microbit-icons]]]
 
-\[\[\[microbit-animation]]]
+[[[microbit-animation]]]
 
-\[\[\[microbit-function]]]
+[[[microbit-function]]]
 
-\[\[\[microbit-plot-graph]]]
+[[[microbit-plot-graph]]]
 
-You could store the points scored to the micro:bit to use later.
+Je kunt de gescoorde punten opslaan in de micro:bit om later te gebruiken.
 
-\[\[\[microbit-datalogging]]]
+[[[microbit-datalogging]]]
 
 \--- /task ---
 
-### Where will your game be played?
+### Waar zal je spel gespeeld worden?
 
 \--- task ---
 
-You might need to play your game away from your computer.
+Je moet mogelijk je spel spelen los van je computer.
 
-\[\[\[microbit-batteries]]]
+[[[microbit-batteries]]]
 
 \--- /task ---
 
-\[\[\[download-to-microbit]]]
+[[[download-to-microbit]]]
 
 \--- task ---
 
-**Test:** Show someone else your game and get their feedback.
+\*\*Test: Laat iemand anders jouw spel zien en vraag feedback.
 
-Do you want to make any changes?
+Wil je wijzigingen aanbrengen?
 
 \--- /task ---
 
 \--- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix.
+**Fouten oplossen**: Mogelijk vind je enkele fouten in jouw project die je moet oplossen.
 
-We love hearing about your bugs and how you fixed them.
+We horen graag over je fouten en hoe je ze hebt opgelost.
 
 \--- /task ---
