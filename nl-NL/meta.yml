@@ -1,21 +1,26 @@
 ---
-title: Party game
+title: Gezelschapsspel
 hero_image: images/banner.png
-description: Use your micro:bit to create a party game!
+description: Gebruik je micro:bit om een gezelschapsspel te maken!
 version: 4
-listed: false
-copyedit: false
+listed: true
+copyedit: true
 last_tested: '2021-03-26'
 steps:
   - 
-    title: Introduction
+    title: Inleiding
   - 
-    title: Your idea
+    title: Jouw idee
   - 
-    title: Build and test
+    title: Bouw en test
+    completion:
+      - engaged
+      - internal
   - 
-    title: Checklist
+    title: Controlelijst
+    completion:
+      - external
   - 
-    title: Share and play
+    title: Deel en speel
   - 
-    title: What next?
+    title: Wat kun je verder nog doen?
