@@ -1,127 +1,127 @@
-## Checklist
+## Controlelijst
 
-Did you meet the **project brief**? Think about your project and go through the checklist below — check off the points that apply to your project.
+Voldoet je project aan de projectbeschrijving\*\*? Denk na over je project en doorloop de onderstaande controlelijst en vink af wat van toepassing is op je project.
 
-### Does your party game:
+### Bevat jouw gezelschapsspel:
 
 \--- task ---
 
-Show an image you've designed on the LEDs.
+Een afbeelding die je hebt ontworpen om op de LED's te laten zien.
 
 \--- /task ---
 
 \--- task ---
 
-Let a player start the game.
+De mogelijkheid voor de speler om het spel te starten.
 
 \--- /task ---
 
 \--- task ---
 
-Play sounds and/or show icons on the LEDs.
+Geluid dat afgespeeld wordt en/of pictogrammen die op de LED's worden getoond.
 
 \--- /task ---
 
 \--- task ---
 
-Let the players control the game using buttons, the touch logo, movement, or sounds.
+De mogelijkheid voor de spelers om het spel besturen met knoppen, het logo, beweging of geluiden.
 
 \--- /task ---
 
 \--- task ---
 
-Show a winning result or prize at the end of the game.
+Een winnend resultaat of een prijs die wordt getoond aan het einde van het spel.
 
 \--- /task ---
 
-### Your game could also:
+### Je spel kan ook:
 
 \--- task ---
 
-Let the user enter the number of players.
-
-\--- /task ---
-
-\--- task ---
-
-Use a timer.
+De gebruikers het aantal spelers laten invoeren.
 
 \--- /task ---
 
 \--- task ---
 
-Have levels.
+Een timer gebruiken.
 
 \--- /task ---
 
 \--- task ---
 
-Keep track of a value or a high score.
+Niveaus hebben.
 
 \--- /task ---
 
 \--- task ---
 
-Have a reset feature.
+Een waarde bijhouden of een hoogste score.
 
 \--- /task ---
 
 \--- task ---
 
-Log data.
+Een reset functie hebben.
 
 \--- /task ---
 
 \--- task ---
 
-Have code organised into functions.
+Gegevens registreren.
 
 \--- /task ---
 
 \--- task ---
 
-Be powered from the battery pack.
-
-\--- /task ---
-
-Reflecting about how you made your party game will help you in your future projects.
-
-Answer the questions below by drawing, writing, typing in a document, talking to someone, or in your own creative way that works best for you.
-
-\--- task ---
-
-How did you get your ideas?
+Code georganiseerd hebben in functies.
 
 \--- /task ---
 
 \--- task ---
 
-What cool new thing(s) did you learn?
+Worden gevoed door het batterijpakket van de micro:bit.
+
+\--- /task ---
+
+Nadenken over hoe je je gezelschapsspel hebt gemaakt, zal je helpen in je toekomstige projecten.
+
+Beantwoord de onderstaande vragen door te tekenen, schrijven, typen in een document, met iemand te praten of op je eigen creatieve manier die het beste bij je past.
+
+\--- task ---
+
+Hoe ben je aan je ideeën gekomen?
+
+\--- /task ---
+
+\--- task ---
+
+Welke coole nieuwe dingen heb je geleerd?
 
 \--- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">“One should not be afraid to be wrong or to make and admit mistakes, for only those who dare to fail greatly can ever achieve greatly."</span> 
-— Margaret Hamilton, computer scientist and former NASA software engineer.
+<span style="color: #0faeb0">"Je moet niet bang zijn om ongelijk te hebben of fouten te maken en deze toe te geven, alleen degenen die het durven groots te falen, kunnen ooit veel bereiken.</span> 
+- Margaret Hamilton, computerwetenschapper en voormalige NASA-softwareontwikkelaar.
 </p>
 
-Mistakes and failure are temporary. Keep going until you succeed!
+Fouten en falen zijn tijdelijk. Blijf doorgaan totdat je slaagt!
 
 \--- task ---
 
-What mistakes did you make and how did they help you create your party game?
+Welke fouten heb je gemaakt en hoe hebben ze je geholpen om je gezelschapsspel te maken?
 
 \--- /task ---
 
-\[\[\[download-to-microbit]]]
+[[[download-to-microbit]]]
 
-### Now you are the creator of a micro:bit game!
+### Nu ben je de maker van een micro:bit spel!
 
-Take a moment to celebrate what you have made.
+Neem even de tijd om dit te vieren.
 
 \--- task ---
 
-Where will you take your new powers? What will you make next?
+Waar ga je met je nieuwe kennis doen? Wat ga je hierna maken?
 
 \--- /task ---
 
