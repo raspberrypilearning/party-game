@@ -14,15 +14,15 @@ Here is a reminder of some skills you could use to help you make your party game
 
 You could start your game by showing something on the LEDs.
 
-\[\[\[microbit-icons]]]
+[[[microbit-icons]]]
 
-\[\[\[microbit-animation]]]
+[[[microbit-animation]]]
 
-\[\[\[microbit-text]]]
+[[[microbit-text]]]
 
 If your start-up screen is complicated, you might want to organise the code into a **function**.
 
-\[\[\[microbit-function]]]
+[[[microbit-function]]]
 
 \--- /task ---
 
@@ -32,11 +32,11 @@ If your start-up screen is complicated, you might want to organise the code into
 
 Will a player score points?
 
-\[\[\[microbit-counting]]]
+[[[microbit-counting]]]
 
 Will they have to do something for a set time?
 
-\[\[\[microbit-timer]]]
+[[[microbit-timer]]]
 
 \--- /task ---
 
@@ -46,31 +46,31 @@ Will they have to do something for a set time?
 
 A player might need to use a trigger.
 
-\[\[\[microbit-buttons]]]
+[[[microbit-buttons]]]
 
-\[\[\[microbit-mic]]]
+[[[microbit-mic]]]
 
-\[\[\[microbit-gesture-trigger]]]
+[[[microbit-gesture-trigger]]]
 
-\[\[\[microbit-fine-movement]]]
+[[[microbit-fine-movement]]]
 
 A player might need to hear sounds.
 
-\[\[\[microbit-playing-sounds]]]
+[[[microbit-playing-sounds]]]
 
-\[\[\[microbit-volume]]]
+[[[microbit-volume]]]
 
 Will they need to make choices?
 
-\[\[\[microbit-making-choices]]]
+[[[microbit-making-choices]]]
 
 Will you need to show or use random numbers?
 
-\[\[\[microbit-random-numbers]]]
+[[[microbit-random-numbers]]]
 
 You might have some code that only runs if a player has completed a task.
 
-\[\[\[microbit-flags]]]
+[[[microbit-flags]]]
 
 \--- /task ---
 
@@ -80,19 +80,19 @@ You might have some code that only runs if a player has completed a task.
 
 You could end your game by showing something on the LEDs.
 
-\[\[\[microbit-text]]]
+[[[microbit-text]]]
 
-\[\[\[microbit-icons]]]
+[[[microbit-icons]]]
 
-\[\[\[microbit-animation]]]
+[[[microbit-animation]]]
 
-\[\[\[microbit-function]]]
+[[[microbit-function]]]
 
-\[\[\[microbit-plot-graph]]]
+[[[microbit-plot-graph]]]
 
 You could store the points scored to the micro:bit to use later.
 
-\[\[\[microbit-datalogging]]]
+[[[microbit-datalogging]]]
 
 \--- /task ---
 
@@ -102,11 +102,11 @@ You could store the points scored to the micro:bit to use later.
 
 You might need to play your game away from your computer.
 
-\[\[\[microbit-batteries]]]
+[[[microbit-batteries]]]
 
 \--- /task ---
 
-\[\[\[download-to-microbit]]]
+[[[download-to-microbit]]]
 
 \--- task ---
 
