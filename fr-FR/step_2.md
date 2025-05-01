@@ -42,7 +42,7 @@ Open the MakeCode editor at [makecode.microbit.org](https://makecode.microbit.or
 
 \--- collapse ---
 
-***
+---
 
 ## title: Offline version of the editor
 
