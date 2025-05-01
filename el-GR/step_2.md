@@ -1,62 +1,62 @@
-## Your idea
+## Η ιδέα σου
 
-Use this step to plan your party game. You can plan by just thinking, tinkering, drawing or writing, or however you like!
+Χρησιμοποίησε αυτό το βήμα για να σχεδιάσεις το παιχνίδι για το πάρτι σου. Μπορείς να σχεδιάσεις με το μυαλό σου, μαστορεύοντας, σχεδιάζοντας ή γράφοντας, ή όπως θέλεις!
 
-### What will you make?
+### Τι θα φτιάξεις;
 
 \--- task ---
 
-Think about the game you will use your micro:bit for.
+Σκέψου το παιχνίδι για το οποίο θα χρησιμοποιήσεις το micro:bit σου.
 
-- What are the rules of the game?
-- How does someone win?
-- Are there choices players have to make?
-- Do players score points?
-- Will the game be played inside or outside?
+- Ποιοι είναι οι κανόνες του παιχνιδιού;
+- Πώς κερδίζει κάποιος/α;
+- Υπάρχουν επιλογές που πρέπει να κάνουν οι παίκτες;
+- Συγκεντρώνουν πόντους οι παίκτες;
+- Το παιχνίδι θα παίζεται εντός ή εκτός;
 
 \--- /task ---
 
-### Who is it for?
+### Σε ποιον/α απευθύνεται;
 
 \--- task ---
-Think about who you will make your party game for (your **audience**).
+Σκέψου για ποιους θα φτιάξεις το παιχνίδι για το πάρτι (το **κοινό** σου).
 
-- Will they need longer to see the icons or text on the screen?
-- Will they need sound as well as visual information?
-- Will they be able to understand what an icon means?
-- Are there any part of the micro:bit they might find hard to use?
+- Θα χρειαστούν περισσότερο χρόνο για να δουν τα εικονίδια ή το κείμενο στην οθόνη;
+- Θα χρειαστούν ήχο καθώς και οπτικές πληροφορίες;
+- Θα είναι σε θέση να καταλάβουν τι σημαίνει ένα εικονίδιο;
+- Υπάρχει κάποιο μέρος του micro:bit που μπορεί να είναι δύσκολο να χρησιμοποιηθεί;
 
 \--- /task ---
 
-### Get started
+### Ξεκίνησε
 
-Use a notes app or pen and paper, or both, to plan ideas for your game.
+Χρησιμοποίησε μια εφαρμογή για σημειώσεις ή στυλό και χαρτί, ή και τα δύο, για να σχεδιάσεις ιδέες για το παιχνίδι σου.
 
-Try to note down as many ideas as you can, and discuss them with a friend.
+Προσπάθησε να σημειώσεις όσες περισσότερες ιδέες μπορείς και συζήτησέ τις με έναν/μια φίλο/η.
 
-Then pick the idea that you like the most.
+Στη συνέχεια επίλεξε την ιδέα που σου αρέσει περισσότερο.
 
 \--- task ---
 
-Open the MakeCode editor at [makecode.microbit.org](https://makecode.microbit.org){:target="_blank"}.
+Άνοιξε το πρόγραμμα επεξεργασίας MakeCode στη διεύθυνση [makecode.microbit.org](https://makecode.microbit.org){:target="_blank"}.
 
 \--- collapse ---
 
-***
+---
 
-## title: Offline version of the editor
+## title: Εκτός σύνδεσης έκδοση του επεξεργαστή
 
-There is also a [downloadable version of the MakeCode editor](https://makecode.microbit.org/offline-app){:target="_blank"}.
+Υπάρχει επίσης μια [έκδοση του προγράμματος επεξεργασίας MakeCode με δυνατότητα λήψης](https://makecode.microbit.org/offline-app){:target="_blank"}.
 
 \--- /collapse ---
 
 \--- /task ---
 
-Once the editor is open, create a new project and give your project a name.
+Μόλις ανοίξει το πρόγραμμα επεξεργασίας, δημιούργησε ένα νέο έργο και δώσε ένα όνομα στο έργο σου.
 
 \--- task ---
 
-Click on the **New Project** button.
+Κάνε κλικ στο κουμπί **Νέο έργο**.
 
 <img src="images/new-project-button.png" alt="The New Project button inside MakeCode." width="250"/>
 
@@ -64,15 +64,15 @@ Click on the **New Project** button.
 
 \--- task ---
 
-Give your project a name that matches the party game you want to make!
+Δώσε στο έργο σου ένα όνομα που να ταιριάζει στο παιχνίδι για πάρτι που θέλεις να φτιάξεις!
 
-**Tip:** Giving your project a name that relates to the game you’re creating will make it easier to find if you create other projects on MakeCode.
+**Συμβουλή:** Εάν δώσεις στο έργο σου ένα όνομα που σχετίζεται με το παιχνίδι που δημιουργείς, θα είναι πιο εύκολο να το βρίσκεις εάν δημιουργήσεις και άλλα έργα στο MakeCode.
 
 \--- /task ---
 
-Your game will need to use some micro:bit features. Here are some ingredients that you might find useful.
+Το παιχνίδι σου θα πρέπει να χρησιμοποιεί μερικές λειτουργίες micro:bit. Εδώ είναι μερικά συστατικά που μπορεί να σας φανούν χρήσιμα.
 
-#### Loops
+#### Βρόχοι
 
 [[[microbit-forever-loop]]]
 
@@ -80,10 +80,10 @@ Your game will need to use some micro:bit features. Here are some ingredients th
 
 [[[microbit-for-loop]]]
 
-#### Variables
+#### Μεταβλητές
 
 [[[microbit-create-variables]]]
 
-#### Logic
+#### Λογική
 
 [[[microbit-selection]]]
