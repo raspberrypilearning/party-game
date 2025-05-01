@@ -1,130 +1,130 @@
-## Checklist
+## Λίστα ελέγχου
 
-Did you meet the **project brief**? Think about your project and go through the checklist below — check off the points that apply to your project.
+Το έργο σου ανταποκρίνεται στη **σύνοψη έργου**; Σκέψου το έργο σου και πέρασε από τη λίστα ελέγχου που ακολουθεί - έλεγξε τα χαρακτηριστικά που διαθέτει το έργο σου.
 
-### Does your party game:
+### Το παιχνίδι σου για το πάρτι:
 
 \--- task ---
 
-Show an image you've designed on the LEDs.
+Εμφανίζει μια εικόνα που έχεις σχεδιάσει με τα LED.
 
 \--- /task ---
 
 \--- task ---
 
-Let a player start the game.
+Επιτρέπει σε έναν/μια παίκτη/ρια να ξεκινήσει το παιχνίδι.
 
 \--- /task ---
 
 \--- task ---
 
-Play sounds and/or show icons on the LEDs.
+Αναπαραγάγει ήχους ή/και να εμφανίζει εικονίδια στα LED.
 
 \--- /task ---
 
 \--- task ---
 
-Let the players control the game using buttons, the touch logo, movement, or sounds.
+Επιτρέπει στους παίκτες να ελέγχουν το παιχνίδι χρησιμοποιώντας κουμπιά, το λογότυπο αφής, την κίνηση ή τους ήχους.
 
 \--- /task ---
 
 \--- task ---
 
-Show a winning result or prize at the end of the game.
+Εμφανίζει ένα νικηφόρο αποτέλεσμα ή ένα έπαθλο στο τέλος του παιχνιδιού.
 
 \--- /task ---
 
-### Your game could also:
+### Το παιχνίδι σου θα μπορούσε επίσης να:
 
 \--- task ---
 
-Let the user enter the number of players.
-
-\--- /task ---
-
-\--- task ---
-
-Use a timer.
+Επιτρέπει στον χρήστη να εισαγάγει τον αριθμό των παικτών.
 
 \--- /task ---
 
 \--- task ---
 
-Have levels.
+Κάνει χρήση χρονομέτρου.
 
 \--- /task ---
 
 \--- task ---
 
-Keep track of a value or a high score.
+Έχει επίπεδα.
 
 \--- /task ---
 
 \--- task ---
 
-Have a reset feature.
+Παρακολουθεί μια τιμή ή ένα υψηλό σκορ.
 
 \--- /task ---
 
 \--- task ---
 
-Log data.
+Έχει δυνατότητα επαναφοράς.
 
 \--- /task ---
 
 \--- task ---
 
-Have code organised into functions.
+Καταγράφει τα δεδομένα.
 
 \--- /task ---
 
 \--- task ---
 
-Be powered from the battery pack.
-
-\--- /task ---
-
-Reflecting about how you made your party game will help you in your future projects.
-
-Answer the questions below by drawing, writing, typing in a document, talking to someone, or in your own creative way that works best for you.
-
-\--- task ---
-
-How did you get your ideas?
+Έχει τον κώδικα οργανωμένο σε συναρτήσεις.
 
 \--- /task ---
 
 \--- task ---
 
-What cool new thing(s) did you learn?
+Τροφοδοτείται από τη μπαταρία.
+
+\--- /task ---
+
+Το να προβληματιστείς σχετικά με το πώς έφτιαξες το παιχνίδι σου για το πάρτι θα σε βοηθήσει στα μελλοντικά σου έργα.
+
+Απάντησε στις παρακάτω ερωτήσεις σχεδιάζοντας, γράφοντας, πληκτρολογώντας ένα έγγραφο, μιλώντας με κάποιον/α ή με όποιον δημιουργικό τρόπο λειτουργεί καλύτερα για σένα.
+
+\--- task ---
+
+Πώς σου ήρθαν οι ιδέες;
+
+\--- /task ---
+
+\--- task ---
+
+Τι ωραία νέα πράγματα έμαθες;
 
 \--- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">“One should not be afraid to be wrong or to make and admit mistakes, for only those who dare to fail greatly can ever achieve greatly."</span> 
-— Margaret Hamilton, computer scientist and former NASA software engineer.
+<span style="color: #0faeb0">“Δεν πρέπει να φοβάται κανείς μήπως κάνει λάθος ή να κάνει και να παραδεχτεί τα λάθη του, γιατί μόνο εκείνοι που τολμούν να αποτύχουν πολύ μπορούν κάποτε να επιτύχουν πολλά"</span> — Margaret Hamilton, επιστήμονας υπολογιστών και πρώην μηχανικός υπολογιστών στην NASA.
 </p>
 
-Mistakes and failure are temporary. Keep going until you succeed!
+Τα λάθη και η αποτυχία είναι προσωρινά. Συνέχισε μέχρι να πετύχεις!
 
 \--- task ---
 
-What mistakes did you make and how did they help you create your party game?
+Ποια λάθη έκανες και πώς σε βοήθησαν να δημιουργήσεις το παιχνίδι σου για το πάρτι;
 
 \--- /task ---
 
 [[[download-to-microbit]]]
 
-### Now you are the creator of a micro:bit game!
+### Τώρα είσαι ο/η δημιουργός του παιχνιδιού στο micro:bit!
 
-Take a moment to celebrate what you have made.
+Αφιέρωσε μια στιγμή για να απολαύσεις αυτό που έφτιαξες.
 
 \--- task ---
 
-Where will you take your new powers? What will you make next?
+Πού θα σε οδηγήσουν οι νέες σου δυνάμεις; Τι θα φτιάξεις μετά;
 
 \--- /task ---
 
 <div style="position:relative;height:100%;padding-bottom:125%;padding-top:0;overflow:hidden;">
 <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://makecode.microbit.org/---run?id=_Ax18mbcjbFmp" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe>
 </div>
+
