@@ -1,13 +1,13 @@
-## What next?
+## Et ensuite ?
 
-You have reached the end of the [Introduction to micro:bit](https://projects.raspberrypi.org/en/pathways/microbit-intro) path!
+Tu as atteint la fin du parcours [Introduction à micro:bit](https://projects.raspberrypi.org/en/pathways/microbit-intro) !
 
-Now you can bring all your micro:bit ideas to life.
+Maintenant tu peux donner vie à toutes tes idées micro:bit.
 
-Try making more cool stuff!
+Essaie de créer des trucs plus cool !
 
-If you need a reminder of what you have learnt, you can go to the [micro:bit guide](https://projects.raspberrypi.org/en/projects/getting-started-with-microbit).
+Si tu as besoin d'un rappel de ce que tu as appris, tu peux consulter le [guide micro:bit](https://projects.raspberrypi.org/en/projects/getting-started-with-microbit).
 
 [[[microbit-coolest-projects]]]
 
-Or, you can explore our [other micro:bit projects](https://projects.raspberrypi.org/en/projects?hardware%5B%5D=microbit) and try them out.
+Ou, tu peux explorer nos [autres projets micro:bit](https://projects.raspberrypi.org/en/projects?hardware%5B%5D=microbit) et les essayer.
