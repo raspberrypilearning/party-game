@@ -1,127 +1,127 @@
 ## Checklist
 
-Did you meet the **project brief**? Think about your project and go through the checklist below — check off the points that apply to your project.
+As-tu respecté la **fiche de projet** ? Réfléchis à ton projet et parcours la checklist ci-dessous — coche les points qui s’appliquent à ton projet.
 
-### Does your party game:
+### Est-ce que ton jeu de société :
 
 \--- task ---
 
-Show an image you've designed on the LEDs.
+Affiche une image que tu as conçue sur les LED.
 
 \--- /task ---
 
 \--- task ---
 
-Let a player start the game.
+Laisse un·e joueur·euse démarrer le jeu.
 
 \--- /task ---
 
 \--- task ---
 
-Play sounds and/or show icons on the LEDs.
+Joue des sons et/ou afficher des icônes sur les LED.
 
 \--- /task ---
 
 \--- task ---
 
-Let the players control the game using buttons, the touch logo, movement, or sounds.
+Laisse les joueur·euse·s contrôler le jeu en utilisant des boutons, le logo tactile, le mouvement ou les sons.
 
 \--- /task ---
 
 \--- task ---
 
-Show a winning result or prize at the end of the game.
+Affiche un résultat gagnant ou un prix à la fin du jeu.
 
 \--- /task ---
 
-### Your game could also:
+### Ton jeu pourrait aussi :
 
 \--- task ---
 
-Let the user enter the number of players.
-
-\--- /task ---
-
-\--- task ---
-
-Use a timer.
+Laisser l'utilisateur·trice entrer le nombre de joueur·euse·s.
 
 \--- /task ---
 
 \--- task ---
 
-Have levels.
+Utiliser un minuteur.
 
 \--- /task ---
 
 \--- task ---
 
-Keep track of a value or a high score.
+Avoir des niveaux.
 
 \--- /task ---
 
 \--- task ---
 
-Have a reset feature.
+Garder la trace d'une valeur ou d'un score élevé.
 
 \--- /task ---
 
 \--- task ---
 
-Log data.
+Avoir une fonction de réinitialisation.
 
 \--- /task ---
 
 \--- task ---
 
-Have code organised into functions.
+Enregistrer des données.
 
 \--- /task ---
 
 \--- task ---
 
-Be powered from the battery pack.
-
-\--- /task ---
-
-Reflecting about how you made your party game will help you in your future projects.
-
-Answer the questions below by drawing, writing, typing in a document, talking to someone, or in your own creative way that works best for you.
-
-\--- task ---
-
-How did you get your ideas?
+Avoir le code organisé en fonctions.
 
 \--- /task ---
 
 \--- task ---
 
-What cool new thing(s) did you learn?
+Être alimenté à partir du boîtier de piles.
+
+\--- /task ---
+
+Réfléchir à la façon dont tu as créé ton jeu de société t'aidera dans tes projets futurs.
+
+Réponds aux questions ci-dessous en dessinant, en écrivant, en tapant dans un document, en parlant à quelqu'un ou de la manière créative qui te convient le mieux.
+
+\--- task ---
+
+Comment as-tu eu tes idées ?
+
+\--- /task ---
+
+\--- task ---
+
+Quelle(s) nouvelle(s) chose(s) cool as-tu apprise(s) ?
 
 \--- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">“One should not be afraid to be wrong or to make and admit mistakes, for only those who dare to fail greatly can ever achieve greatly."</span> 
-— Margaret Hamilton, computer scientist and former NASA software engineer.
+<span style="color: #0faeb0">« Il ne faut pas avoir peur de se tromper ou de commettre et d'admettre des erreurs, car seuls ceux qui osent échouer grandement peuvent réussir. »</span> 
+— Margaret Hamilton, informaticienne et ancienne ingénieure logicielle de la NASA.
 </p>
 
-Mistakes and failure are temporary. Keep going until you succeed!
+Les erreurs et les échecs sont temporaires. Continue jusqu'à ce que tu réussisses !
 
 \--- task ---
 
-What mistakes did you make and how did they help you create your party game?
+Quelles erreurs as-tu commises et comment t'ont-elles aidé à créer ton jeu de société ?
 
 \--- /task ---
 
 [[[download-to-microbit]]]
 
-### Now you are the creator of a micro:bit game!
+### Tu es maintenant la·le créateur·trice d'un jeu micro:bit !
 
-Take a moment to celebrate what you have made.
+Prends un moment pour célébrer ce que tu as fait.
 
 \--- task ---
 
-Where will you take your new powers? What will you make next?
+Comment vas-tu utiliser tes nouveaux pouvoirs ? Que feras-tu ensuite ?
 
 \--- /task ---
 
