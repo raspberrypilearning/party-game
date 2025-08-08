@@ -1,62 +1,62 @@
-## Your idea
+## Ton idée
 
-Use this step to plan your party game. You can plan by just thinking, tinkering, drawing or writing, or however you like!
+Utilise cette étape pour planifier ton jeu de société. Tu peux planifier simplement en pensant, en bricolant, en dessinant ou en écrivant, ou comme bon te semble !
 
-### What will you make?
+### Que vas-tu faire ?
 
 \--- task ---
 
-Think about the game you will use your micro:bit for.
+Pense au jeu pour lequel tu utiliseras ton micro:bit.
 
-- What are the rules of the game?
-- How does someone win?
-- Are there choices players have to make?
-- Do players score points?
-- Will the game be played inside or outside?
+- Quelles sont les règles du jeu ?
+- Comment une personne peut‑elle gagner ?
+- Les joueur·euse·s doivent-iels faire des choix ?
+- Les joueur·euse·s marquent-iels des points ?
+- Le jeu sera-t-il joué à l'intérieur ou à l'extérieur ?
 
 \--- /task ---
 
-### Who is it for?
+### À qui s'adresse-t-il ?
 
 \--- task ---
-Think about who you will make your party game for (your **audience**).
+Pense pour qui tu vas créer ton jeu de société (ton **public**).
 
-- Will they need longer to see the icons or text on the screen?
-- Will they need sound as well as visual information?
-- Will they be able to understand what an icon means?
-- Are there any part of the micro:bit they might find hard to use?
+- Auront-iels besoin de plus de temps pour voir les icônes ou le texte à l’écran ?
+- Auront-iels besoin d’informations sonores et visuelles ?
+- Pourront-iels comprendre ce que signifie une icône ?
+- Y a-t-il une partie du micro:bit qu'ils ou elles pourraient trouver difficile à utiliser ?
 
 \--- /task ---
 
-### Get started
+### Commencer
 
-Use a notes app or pen and paper, or both, to plan ideas for your game.
+Utilise une application de notes ou un stylo et du papier, ou les deux, pour planifier des idées pour ton jeu.
 
-Try to note down as many ideas as you can, and discuss them with a friend.
+Essaie de noter autant d'idées que possible et discute-les avec un·e ami ·e.
 
-Then pick the idea that you like the most.
+Ensuite, choisis l'idée qui te plaît le plus.
 
 \--- task ---
 
-Open the MakeCode editor at [makecode.microbit.org](https://makecode.microbit.org){:target="_blank"}.
+Ouvre l'éditeur MakeCode sur [makecode.microbit.org](https://makecode.microbit.org){:target="_blank"}.
 
 \--- collapse ---
 
 ---
 
-## title: Offline version of the editor
+## title: Version hors ligne de l'éditeur
 
-There is also a [downloadable version of the MakeCode editor](https://makecode.microbit.org/offline-app){:target="_blank"}.
+Il existe également une [version téléchargeable de l'éditeur MakeCode](https://makecode.microbit.org/offline-app){:target="_blank"}.
 
 \--- /collapse ---
 
 \--- /task ---
 
-Once the editor is open, create a new project and give your project a name.
+Une fois que l'éditeur est ouvert, crée un nouveau projet et donne un nom à ton projet.
 
 \--- task ---
 
-Click on the **New Project** button.
+Clique sur le bouton **Nouveau projet**.
 
 <img src="images/new-project-button.png" alt="The New Project button inside MakeCode." width="250"/>
 
@@ -64,15 +64,15 @@ Click on the **New Project** button.
 
 \--- task ---
 
-Give your project a name that matches the party game you want to make!
+Donne à ton projet un nom qui correspond au jeu de société que tu souhaites créer !
 
-**Tip:** Giving your project a name that relates to the game you’re creating will make it easier to find if you create other projects on MakeCode.
+**Conseil :** donner à ton projet un nom lié au jeu que tu crées le rendra plus facile à retrouver si tu crées d'autres projets sur MakeCode.
 
 \--- /task ---
 
-Your game will need to use some micro:bit features. Here are some ingredients that you might find useful.
+Ton jeu devra utiliser certaines fonctionnalités du micro:bit. Voici quelques ingrédients qui pourraient t'être utiles.
 
-#### Loops
+#### Boucles
 
 [[[microbit-forever-loop]]]
 
@@ -84,6 +84,6 @@ Your game will need to use some micro:bit features. Here are some ingredients th
 
 [[[microbit-create-variables]]]
 
-#### Logic
+#### Logique
 
 [[[microbit-selection]]]
