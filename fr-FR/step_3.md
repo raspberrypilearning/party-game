@@ -1,18 +1,18 @@
-## Build and test
+## Créer et tester
 
-Now it's time to make your party game!
+Il est maintenant temps de faire ton jeu de société !
 
-**Tip:** 💡 Remember to test your project each time you add something. It is easier to find and fix bugs before you make more changes.
+**Astuce :** 💡 n'oublie pas de tester ton projet chaque fois que tu ajoutes quelque chose. Il est plus facile de trouver et de corriger des bogues avant de faire plus de changements.
 
-You have built up some really useful skills.
+Tu as acquis des compétences vraiment utiles.
 
-Here is a reminder of some skills you could use to help you make your party game:
+Voici un rappel de certaines compétences que tu pourrais utiliser pour t'aider à créer ton jeu de société :
 
-### How will your party game start?
+### Comment va commencer ton jeu de société ?
 
 \--- task ---
 
-You could start your game by showing something on the LEDs.
+Tu peux démarrer ton jeu en affichant quelque chose sur les LED.
 
 [[[microbit-icons]]]
 
@@ -20,31 +20,31 @@ You could start your game by showing something on the LEDs.
 
 [[[microbit-text]]]
 
-If your start-up screen is complicated, you might want to organise the code into a **function**.
+Si ton écran de démarrage est compliqué, tu peux organiser le code dans une **fonction**.
 
 [[[microbit-function]]]
 
 \--- /task ---
 
-### How will a player win the game?
+### Comment un·e joueur·euse va-t-iel gagner la partie ?
 
 \--- task ---
 
-Will a player score points?
+Est-ce qu'un·e joueur·euse marquera des points ?
 
 [[[microbit-counting]]]
 
-Will they have to do something for a set time?
+Devront-iels faire quelque chose pendant une durée déterminée ?
 
 [[[microbit-timer]]]
 
 \--- /task ---
 
-### What does a player have to do in the game?
+### Que doit faire un·e joueur·euse dans le jeu ?
 
 \--- task ---
 
-A player might need to use a trigger.
+Un·e joueur·euse peut avoir besoin d’utiliser un déclencheur.
 
 [[[microbit-buttons]]]
 
@@ -54,31 +54,31 @@ A player might need to use a trigger.
 
 [[[microbit-fine-movement]]]
 
-A player might need to hear sounds.
+Un·e joueur·euse pourrait avoir besoin d'entendre des sons.
 
 [[[microbit-playing-sounds]]]
 
 [[[microbit-volume]]]
 
-Will they need to make choices?
+Devront-iels faire des choix ?
 
 [[[microbit-making-choices]]]
 
-Will you need to show or use random numbers?
+Aurais-tu besoin d’afficher ou d’utiliser des nombres aléatoires ?
 
 [[[microbit-random-numbers]]]
 
-You might have some code that only runs if a player has completed a task.
+Tu pourrais avoir du code qui ne s'exécute que si un·e joueur·euse a terminé une tâche.
 
 [[[microbit-flags]]]
 
 \--- /task ---
 
-### How does the game end?
+### Comment se termine le jeu ?
 
 \--- task ---
 
-You could end your game by showing something on the LEDs.
+Tu pourrais terminer ton jeu en affichant quelque chose sur les LED.
 
 [[[microbit-text]]]
 
@@ -90,17 +90,17 @@ You could end your game by showing something on the LEDs.
 
 [[[microbit-plot-graph]]]
 
-You could store the points scored to the micro:bit to use later.
+Tu pourrais stocker les points marqués sur le micro:bit pour les utiliser plus tard.
 
 [[[microbit-datalogging]]]
 
 \--- /task ---
 
-### Where will your game be played?
+### Où se jouera ton jeu ?
 
 \--- task ---
 
-You might need to play your game away from your computer.
+Tu devras peut-être jouer à ton jeu loin de ton ordinateur.
 
 [[[microbit-batteries]]]
 
@@ -110,16 +110,16 @@ You might need to play your game away from your computer.
 
 \--- task ---
 
-**Test:** Show someone else your game and get their feedback.
+**Test :** montre ton jeu à quelqu'un·e d'autre pour avoir son avis.
 
-Do you want to make any changes?
+Veux-tu faire des changements ?
 
 \--- /task ---
 
 \--- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix.
+**Débogage :** tu pourrais trouver des bogues dans ton projet que tu dois corriger.
 
-We love hearing about your bugs and how you fixed them.
+Nous aimerions connaître tes bogues et la façon dont tu les as résolus.
 
 \--- /task ---
