@@ -1,0 +1,19 @@
+---
+title: Παιχνίδι για πάρτι
+hero_image: images/banner.png
+description: Χρησιμοποίησε το micro:bit σου για να δημιουργήσεις ένα παιχνίδι για πάρτι!
+version: 4
+listed: true
+copyedit: true
+last_tested: '2021-03-26'
+steps:
+  - title: Εισαγωγή
+  - title: Η ιδέα σου
+  - title: Δημιουργία και έλεγχος
+    completion:
+      - εμπλέκεται
+      - εσωτερικός
+  - title: Λίστα ελέγχου
+    completion:
+      - εξωτερικός
+  - title: Μοιράσου και παίξε
